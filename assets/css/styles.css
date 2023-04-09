@@ -258,18 +258,18 @@ body .full-width {
 .grid h3 {
     font-size: 3rem;
     position: relative;
-    padding-left: 5rem;
-    padding-bottom: 2rem;
+    padding-left: 5.5rem;
+    padding-bottom: 3rem;
 }
 
 .grid h3::before {
     counter-increment: grid-counter;
     content: counter(grid-counter);
     position: absolute;
-    font-size: 8rem;
+    font-size: 7rem;
     font-style: italic;
     top: -4rem;
-    left: -2rem;
+    left: -0.3rem;
     transform: rotate(3deg);
 }
 
