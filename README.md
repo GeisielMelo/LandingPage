@@ -37,5 +37,5 @@ To use this project, just download the files and open the index.html file in you
 - This project was created by [@GeisielMelo](https://github.com/GeisielMelo).
 ## License
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
+This project is licensed under the [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) License.
 
